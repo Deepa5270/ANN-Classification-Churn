@@ -1,3 +1,7 @@
+import warnings
+warnings.filterwarnings('ignore')
+
+
 import streamlit as st
 import numpy as np
 import tensorflow as tf
@@ -70,4 +74,3 @@ if prediction_proba > 0.5:
 else:
     st.write('The customer is not likely to churn.')
 
-    
