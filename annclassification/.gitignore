@@ -1,0 +1,7 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
+python-3.11.3-amd64.exe
+annclassification.zip
+logs/
