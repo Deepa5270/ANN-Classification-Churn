@@ -1,7 +1,29 @@
+
+# Virtual Environment
 venv/
+env/
+.venv/
+
+# IDE
 .vscode/
+
+# Installers & unnecessary files
+python-3.11.3-amd64.exe
+*.exe
+*.zip
+
+# Python cache
 __pycache__/
 *.pyc
-python-3.11.3-amd64.exe
-annclassification.zip
-logs/
+*.pyo
+*.egg-info/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model/Data files (if too large)
+# model.h5
+# *.csv
+
