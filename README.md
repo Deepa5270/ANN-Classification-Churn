@@ -319,17 +319,13 @@ This project is open source under the **MIT License** - see LICENSE file for det
 ## 👤 Author
 
 **Deepa Prajapati**
-- GitHub: [@Deepa5270](https://github.com/Deepa5270)
-- LinkedIn: [Connect](https://www.linkedin.com/in/deepa-prajapati/)
-- Email: deepa.prajapati@email.com
 
+- 📧 Email: deepa7932praj@gmail.com
+- 🔗 GitHub: [@Deepa5270](https://github.com/Deepa5270)
+- 💼 LinkedIn: [Deepa Prajapati ](https://www.linkedin.com/in/deepa-prajapati-b16014345)
 ---
 
-## 📞 Support
 
-- **Questions?** Open an issue on GitHub
-- **Live Demo:** [Streamlit App](https://ann-classification-churn-aceinvzvsyb6cgksckrqmd.streamlit.app)
-- **Documentation:** See notebooks for detailed implementation
 
 ---
 
@@ -337,6 +333,4 @@ This project is open source under the **MIT License** - see LICENSE file for det
 
 If you found this project useful, please give it a **star** on GitHub! It helps other learners discover this resource.
 
-```
-Made with ❤️ by Deepa Prajapati
 ```
